@@ -1,0 +1,1 @@
+What is a comment? What are the two ways of writing a comment?
