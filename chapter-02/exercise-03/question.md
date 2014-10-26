@@ -1,0 +1,1 @@
+Our program began with `package main`. What would the files in the `fmt` package begin with?
