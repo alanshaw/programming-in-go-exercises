@@ -1,4 +1,4 @@
-Using the example program as a starting point, write a program that converts from Farenheit into Celsius. `(C = (F - 32) * 5/9)`
+Using the example program as a starting point, write a program that converts from Farenheit into Celsius. (`C = (F - 32) * 5/9`)
 
 Example program:
 
