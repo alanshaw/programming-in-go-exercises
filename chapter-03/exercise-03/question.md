@@ -1,0 +1,1 @@
+Although overpowered for the task you can use Go as a calculator. Write a program that computes `321325 x 424521` and prints it to the terminal. (Use the `*` operator for multiplication)
