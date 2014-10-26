@@ -1,0 +1,1 @@
+What is a string? How do you find it's length?
