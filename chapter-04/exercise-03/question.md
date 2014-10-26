@@ -1,0 +1,1 @@
+What is scope and how do you determine the scope of a variable in Go?

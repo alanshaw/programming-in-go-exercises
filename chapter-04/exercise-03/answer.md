@@ -1,0 +1,1 @@
+Scope is the range of places in which you are allowed to use a variable. Go is lexically scoped using blocks. Blocks are delimited by `{` and `}`. Any variable declared within a block is scoped to that block and any nested blocks, but not outside of them.
