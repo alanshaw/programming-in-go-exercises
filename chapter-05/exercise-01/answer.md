@@ -1,0 +1,1 @@
+`Small`, since the value of `i` (`10`) is not greater than `10`.
