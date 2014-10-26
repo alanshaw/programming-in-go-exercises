@@ -1,0 +1,1 @@
+What are two ways to create a new variable?
