@@ -1,0 +1,1 @@
+How are integers stored on a computer?

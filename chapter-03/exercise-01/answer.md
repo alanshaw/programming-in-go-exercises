@@ -1,0 +1,1 @@
+Integers are stored in binary with a specific size. It means they have a specific maximum and minimum. They can be stored as signed or unsigned. Signed integers can have negative values, unsigned integers cannot.
