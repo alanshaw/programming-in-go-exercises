@@ -1,0 +1,1 @@
+Characters that cannot usually be seen such as tab, space or newline.
