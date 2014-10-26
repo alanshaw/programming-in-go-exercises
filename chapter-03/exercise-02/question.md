@@ -1,0 +1,1 @@
+We know that (in base 10) the largest 1 digit number is 9 and the largest 2 digit number is 99. Given that in binary the largest 2 digit number is 11 (3), the largest 3 digit number is 111 (7) and the largest 4 digit number is 1111 (15), what's the largest 8 digit number? (_hint:_ 10<sup>1</sup>-1 = 9 and 10<sup>2</sup>-1 = 99).
