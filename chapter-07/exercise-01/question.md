@@ -1,0 +1,1 @@
+`sum` is a function which takes a slice of numbers and adds them together. What would its function signature look like in Go?
