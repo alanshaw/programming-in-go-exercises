@@ -1,0 +1,1 @@
+Array/slice elements are accessed using square brackets `[` `]`. Arrays and slices are zero indexed so the first element is at index `0`, second at index `1` and so on. The fourth element is at index `3`.

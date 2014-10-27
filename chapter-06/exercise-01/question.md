@@ -1,0 +1,1 @@
+How do you access the 4<sup>th</sup> element of an array or slice?
