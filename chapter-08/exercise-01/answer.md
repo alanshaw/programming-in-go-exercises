@@ -1,0 +1,1 @@
+Use the `&` operator to find the memory address of a variable. `&x` returns a `*int` (pointer to an int) because `x` is an `int`.
