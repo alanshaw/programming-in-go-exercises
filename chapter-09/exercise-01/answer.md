@@ -1,0 +1,1 @@
+A method is a function that is attached to a receiver. Between the keyword `func` and the function name, the name and type of the receiver is declared.
