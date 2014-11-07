@@ -10,7 +10,7 @@ type Vehicle struct {
 }
 
 func (v *Vehicle) Move() {
-    fmt.Println("Moving", p.Name)
+    fmt.Println("Moving", v.Name)
 }
 
 type Car struct {
